@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget{
     return MaterialApp(
      /// home: SplashPage(),
      /// home: spotify(),
-      ///home: Loginpage(),
+     ///home: Loginpage(),
       home: Splash_with_image(),
       ///home: medium(),
 
